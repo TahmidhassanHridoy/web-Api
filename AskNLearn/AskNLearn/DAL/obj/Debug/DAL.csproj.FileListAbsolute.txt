@@ -1,0 +1,63 @@
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\DAL.dll.config
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\DAL.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\DAL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\EntityFramework.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\EntityFramework.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\obj\Debug\DAL.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\obj\Debug\DAL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\System.Net.Http.Formatting.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\System.Web.Cors.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\System.Web.Http.Cors.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\System.Web.Http.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\System.Net.Http.Formatting.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\System.Web.Http.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\System.Web.Http.Cors.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\AutoMapper.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\DAL\bin\Debug\AutoMapper.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\DAL.dll.config
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\DAL.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\DAL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\AutoMapper.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\EntityFramework.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\System.Net.Http.Formatting.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Cors.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Http.Cors.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Http.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\AutoMapper.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\EntityFramework.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\System.Net.Http.Formatting.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Http.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Http.Cors.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.pdb
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\DAL.dll.config
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\DAL.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\DAL.pdb
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\AutoMapper.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\EntityFramework.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\Newtonsoft.Json.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\System.Net.Http.Formatting.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Cors.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Http.Cors.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Http.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\AutoMapper.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\EntityFramework.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\Newtonsoft.Json.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\System.Net.Http.Formatting.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Http.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\bin\Debug\System.Web.Http.Cors.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\DAL\obj\Debug\DAL.csproj.CopyComplete

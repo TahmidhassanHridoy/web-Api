@@ -1,0 +1,69 @@
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\BLL.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\BLL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\DAL.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\EntityFramework.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\DAL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\DAL.dll.config
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\EntityFramework.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\obj\Debug\BLL.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\obj\Debug\BLL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\System.Net.Http.Formatting.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\System.Web.Cors.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\System.Web.Http.Cors.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\System.Web.Http.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\Newtonsoft.Json.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\System.Net.Http.Formatting.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\System.Web.Http.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\System.Web.Http.Cors.xml
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\AutoMapper.dll
+E:\Books_N_Notes\10th_Semester\.NET\FinalProject\BackEnd\AskNLearn\BLL\bin\Debug\AutoMapper.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\BLL.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\BLL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\AutoMapper.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\DAL.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\System.Net.Http.Formatting.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Cors.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Http.Cors.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Http.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\EntityFramework.dll
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\DAL.pdb
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\DAL.dll.config
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\AutoMapper.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\Newtonsoft.Json.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\System.Net.Http.Formatting.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Http.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Http.Cors.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\bin\Debug\EntityFramework.xml
+E:\Books_N_Notes\10th_Semester\.NET\Tahmid\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.pdb
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\BLL.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\BLL.pdb
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\AutoMapper.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\DAL.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\Newtonsoft.Json.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\System.Net.Http.Formatting.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Cors.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Http.Cors.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Http.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\EntityFramework.dll
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\DAL.pdb
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\DAL.dll.config
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\AutoMapper.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\Newtonsoft.Json.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\System.Net.Http.Formatting.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Http.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\System.Web.Http.Cors.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\bin\Debug\EntityFramework.xml
+F:\Advance programming with .Net\Api\AskNLearn\AskNLearn\BLL\obj\Debug\BLL.csproj.CopyComplete
