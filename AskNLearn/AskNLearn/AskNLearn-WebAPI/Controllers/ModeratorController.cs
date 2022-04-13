@@ -1,5 +1,4 @@
-﻿using BLL.Entities.Admin;
-using BLL.Entities.Moderator;
+﻿using BLL.Entities.Moderator;
 using BLL.Services;
 using System;
 using System.Collections.Generic;

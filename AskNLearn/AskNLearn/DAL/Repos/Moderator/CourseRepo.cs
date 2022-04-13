@@ -10,8 +10,8 @@ namespace DAL.Repos.Moderator
 {
     public class CourseRepo : IModerator<Cours, int>
     {
-        AskNLearnEntities1 dbObj;
-        public CourseRepo(AskNLearnEntities1 dbObj)
+        AskNLearnEntities dbObj;
+        public CourseRepo(AskNLearnEntities dbObj)
         {
             this.dbObj = dbObj;
         }

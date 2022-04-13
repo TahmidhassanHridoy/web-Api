@@ -10,8 +10,8 @@ namespace DAL.Repos.Moderator
 {
     public class PostRepo : IModerator<Post, int>
     {
-        AskNLearnEntities1 dbObj;
-        public PostRepo(AskNLearnEntities1 dbObj)
+        AskNLearnEntities dbObj;
+        public PostRepo(AskNLearnEntities dbObj)
         {
             this.dbObj = dbObj;
         }

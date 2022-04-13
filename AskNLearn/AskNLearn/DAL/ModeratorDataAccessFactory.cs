@@ -10,7 +10,7 @@ namespace DAL
 {
     public class ModeratorDataAccessFactory
     {
-        static AskNLearnEntities1 dbObj = new AskNLearnEntities1();
+        static AskNLearnEntities dbObj = new AskNLearnEntities();
 
         public static IModerator<Cours, int> GetData()
         {

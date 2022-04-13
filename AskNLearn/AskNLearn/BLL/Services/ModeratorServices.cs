@@ -13,7 +13,7 @@ namespace BLL.Services
 {
     public class ModeratorServices
     {
-            AskNLearnEntities1 dbObj = new AskNLearnEntities1();
+            AskNLearnEntities dbObj = new AskNLearnEntities();
             
             public static string Get(int uid)
             {
